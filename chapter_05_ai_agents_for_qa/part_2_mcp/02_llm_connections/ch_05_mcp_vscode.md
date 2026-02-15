@@ -1,9 +1,9 @@
 # MCP VS Code Setup
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
+- **Author:** Nitin Choudhary
+- **Role:** Sr SDET
+.
+- **LinkedIn:** https://www.linkedin.com/in/choudhary-nitin/
 
 ---
 

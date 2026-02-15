@@ -7,7 +7,7 @@
 
 ---
 
-**Created by: Pramod Dutta**  
+**Created by: Nitin Choudhary**  
 SDET Manager at Tekion | Ex BrowserStack | CSM® Certified Scrum Master  
 10+ Years in Software Testing & Test Automation | Mentored 10,000+ Students  
 Founder — [TheTestingAcademy.com](https://thetestingacademy.com)  
@@ -675,6 +675,6 @@ Total Estimated Duration: 3–4 hours (split into a series or one long session)
 
 ---
 
-**Created by [Pramod Dutta](https://www.linkedin.com/in/pramoddutta/) | [TheTestingAcademy](https://thetestingacademy.com) | [YouTube](https://www.youtube.com/@TheTestingAcademy)**
+**Created by [Nitin Choudhary](https://www.linkedin.com/in/pramoddutta/) | [TheTestingAcademy](https://thetestingacademy.com) | [YouTube](https://www.youtube.com/@TheTestingAcademy)**
 
 *— End of Tutorial Guide —*

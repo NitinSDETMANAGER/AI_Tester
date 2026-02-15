@@ -4,10 +4,10 @@
 
 ---
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
+- **Author:** Nitin Choudhary
+- **Role:** Sr SDET
+
+- **LinkedIn:** https://www.linkedin.com/in/choudhary-nitin/
 
 ---
 
@@ -201,5 +201,5 @@ This material is created for educational purposes by [The Testing Academy](https
 ## 🤝 Connect
 
 - **Website:** [thetestingacademy.com](https://thetestingacademy.com/)
-- **LinkedIn:** [Pramod Dutta](https://www.linkedin.com/in/pramoddutta/)
+- **LinkedIn:** [Nitin Choudhary](https://www.linkedin.com/in/pramoddutta/)
 
